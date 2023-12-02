@@ -11,6 +11,10 @@ The `findElement` method takes a double array and a double as parameters and ret
 input 
 Enter the element to search for: 678.954
 
+
+sampleArray1
+345.6, 678.954, 234.534, -89.23
+
 output
 678.954 was found in the array
 
